@@ -25,6 +25,48 @@ Algumas informações úteis e dicas:
 html,
 body {
   font-family: "Roboto", sans-serif;
+  background-color: #ece6e6;
+}
+.appbar{
+  background-color: rgba(255, 255, 0, 0.76);
+  align-items: center;
+  height: 10%;
+  display: flex;
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.6);
+}
+
+.logo{
+  height: 30px;
+  padding: 0.5rem;
+}
+
+.subtitle{
+  font-size: 1rem;
+}
+
+.container{
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.form-card{
+  display: flex;
+  background-color: white;
+  flex-direction: column;
+  padding: 1rem;
+  margin-top: 1rem;
+  border-radius: 0.5rem;
+  width: 30%;
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.6);
+  justify-content: space-around;
+}
+
+.form-card-title{
+  font-size: 1rem;
+}
+.type{
+  color: black;
 }
 
 /* Você pode usar o CSS comentado abaixo, se ajudar */
