@@ -27,19 +27,19 @@ html{
 }
 body {
   font-family: "Roboto", sans-serif;
-  background-color: #ece6e6;
+  background-color: #fafafa;
   height: inherit;
 }
 .appbar{
-  background-color: rgba(255, 255, 0, 0.76);
+  background-color: #f8da46ef;
   align-items: center;
-  height: 5%;
+  height: 6%;
   display: flex;
   box-shadow: 0 2px 15px rgba(0, 0, 0, 0.6);
 }
 
 .logo{
-  height: 30px;
+  height: 2.7rem;
   padding: 0.5rem;
 }
 
@@ -62,14 +62,14 @@ body {
   margin-top: 1rem;
   border-radius: 0.5rem;
   width: 30%;
-  height: 15%;
+  height: 14%;
   box-shadow: 0 4px 5px rgba(0, 0, 0, 0.6);
   justify-content: space-around;
 
 }
 
 .form-card-title{
-  font-size: 1rem;
+  font-size: 1.5rem;
   border: none;
 }
 .type{
@@ -136,16 +136,17 @@ body {
 .card-container{
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
   height: 60%;
+  margin: 2rem;
   flex-wrap: wrap;
 }
 
 .card{
   margin: 0.5rem;
   display: flex;
-  width: 15%;
+  width: 14%;
   height: 30%;
   flex-direction: column;
   justify-content: space-between;
