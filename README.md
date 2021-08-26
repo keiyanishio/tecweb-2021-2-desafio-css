@@ -4,7 +4,7 @@ Grupo:
 
 - Bruno Freitas do Nascimento Rodrigues
 - Keiya Nishio
-- Link do GitHub Pages: COLOQUE O LINK AQUI (POR EXEMPLO: https://barbaratieko.github.io/tecweb-2021-2-desafio-css/)
+- Link do GitHub Pages: https://keiyanishio.github.io/tecweb-2021-2-desafio-css/?titulo=&detalhes=
 
 ## Desafio CSS
 
